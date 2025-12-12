@@ -87,8 +87,8 @@ These outputs significantly strengthen job applications by increasing personaliz
 
 If you have any questions, ideas, or want to contribute, feel free to reach out:
 
-- **Name:** Mohammadamin Lari  
-- **Email:** [mohammadamin.lari@gmail.com](mailto:mohammadamin.lari@gmail.com)  
+- **Name:** Mark Lari  
+- **Email:** [mark.lari.work@gmail.com](mailto:mark.lari.work@gmail.com)  
 - **GitHub:** [AminLari](https://github.com/aminlari)
 
 Contributions, issues, and pull requests are always welcome!
