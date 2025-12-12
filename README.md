@@ -18,6 +18,7 @@ The system searches for job postings on LinkedIn, customizes a user-provided cov
 ## File Structure
 - `workflow.json` — Exported n8n workflow.
 - `docs/` — Agent-generated demo projects.
+- `LICENSE` — MIT License.
 - `AI Agent Workflow.jpg` — Workflow diagram.
 - `README.md` — Documentation for the repository.
 
